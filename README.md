@@ -1,48 +1,31 @@
-\# Student Record Management System (C)
-
-
+# Student Record Management System (C)
 
 This is a console-based application written in C to manage student records.
 
 The program stores data using file handling so records are saved permanently.
 
+---
 
+## Features
 
-\## Features
+- Add a student record  
+- View all student records  
+- Search student by roll number  
+- Delete a student record  
 
-\- Add a student record
+---
 
-\- View all student records
+## Concepts Used
 
-\- Search student by roll number
+- Structures  
+- File handling  
+- Functions  
+- Loops and switch-case  
 
-\- Delete a student record
+---
 
+## How to Compile and Run
 
-
-\## Concepts Used
-
-\- Structures
-
-\- File handling
-
-\- Functions
-
-\- Loops and switch-case
-
-
-
-\## How to Compile and Run
-
-
-
+```bash
 gcc student.c -o student
-
 ./student
-
-
-
-\## Author
-
-Student Record Management System project written in C.
-
