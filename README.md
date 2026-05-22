@@ -29,3 +29,8 @@ The program stores data using file handling so records are saved permanently.
 ```bash
 gcc student.c -o student
 ./student
+## Features
+- Add student records
+- Search and manage student data
+- Update and modify records
+- Console-based C application
