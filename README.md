@@ -34,3 +34,11 @@ gcc student.c -o student
 - Search and manage student data
 - Update and modify records
 - Console-based C application
+## Learning Outcomes
+
+This project helped in understanding:
+- File handling in C
+- Structures and user-defined data types
+- Function decomposition
+- Data management using files
+- Menu-driven application development
